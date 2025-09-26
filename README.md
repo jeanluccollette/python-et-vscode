@@ -14,3 +14,6 @@ Les exemples de programmes et de notebooks cités dans ce document sont par aill
 
 Retrouvez ci-dessous les liens disponibles aussi dans le document [tuto_vscode.pdf](tuto_vscode.pdf).
 * [Python 3.10.6](https://www.python.org/downloads/release/python-3106/)
+* [VS Code pour Windows](https://code.visualstudio.com/)
+* [VS Code pour Linux ou Mac](https://code.visualstudio.com/Download)
+* [Langage Markdown](https://fr.wikipedia.org/wiki/Markdown)
